@@ -1,11 +1,12 @@
 ## Input Guardrails 
-* when user ask about order cancellation that input tripewire trigerred
+* __when user ask about order cancellation that input tripewire trigerred__
 
 ## Handoff
-* Human agent that answer only negative questions and solve complex question
+* __Human agent that answer only negative questions and solve complex question__
 
 ## Tools
-* Tool Python function fetch order details and only enable when if question about order and handling error function
+* __Tool Python function fetch order details and only enable when if question about order and handling error function__
+
 
 
 
